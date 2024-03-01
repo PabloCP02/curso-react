@@ -1,0 +1,22 @@
+*{
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.App{
+  padding: 0 50px;
+}
+
+.App h1{
+  background-color: rgb(3, 9, 100);
+  text-align: center;
+  padding: 15px;
+  border-radius: 15px 15px 0 0;
+  color: rgb(255, 255, 255);
+}
+
+.container{
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+  justify-content: center;
+}
